@@ -1,7 +1,7 @@
 /*******************************************/
 /*     this app are created by Botman      */
 /* discord : My name is Super Botman#6621  */
-/*            github : Super-Botman                   */
+/*            github : Super-Botman        */
 /*******************************************/
 
 const express = require('express');
